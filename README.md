@@ -75,6 +75,30 @@ own hardware or a cloud brain you choose.
 
 <br/>
 
+## Also built
+
+<table width="100%">
+<tr>
+<td valign="top">
+
+### Servo-Radar
+**An ESP32 ultrasonic sentry radar**
+
+Sweeps an area with a servo-mounted ultrasonic sensor, locks onto anything within 15 cm, and fires a synchronised
+LED and buzzer alarm.
+
+**Tech:** `ESP32` `C++` `Ultrasonic sensor` `Servo` `Arduino`
+
+<a href="https://github.com/bitalchemistio-004/Servo-Radar">
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## Tech I use
 
 <p align="center">
